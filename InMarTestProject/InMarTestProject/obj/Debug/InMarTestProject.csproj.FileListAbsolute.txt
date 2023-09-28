@@ -1,0 +1,7 @@
+C:\Users\santo\source\repos\InMarTestProject\InMarTestProject\bin\Debug\InMarTestProject.exe.config
+C:\Users\santo\source\repos\InMarTestProject\InMarTestProject\bin\Debug\InMarTestProject.exe
+C:\Users\santo\source\repos\InMarTestProject\InMarTestProject\bin\Debug\InMarTestProject.pdb
+C:\Users\santo\source\repos\InMarTestProject\InMarTestProject\obj\Debug\InMarTestProject.csproj.AssemblyReference.cache
+C:\Users\santo\source\repos\InMarTestProject\InMarTestProject\obj\Debug\InMarTestProject.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\InMarTestProject\InMarTestProject\obj\Debug\InMarTestProject.exe
+C:\Users\santo\source\repos\InMarTestProject\InMarTestProject\obj\Debug\InMarTestProject.pdb
